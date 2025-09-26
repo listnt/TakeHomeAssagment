@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.hh": "cpp",
+        "string": "c",
+        "string_view": "c"
+    }
+}
